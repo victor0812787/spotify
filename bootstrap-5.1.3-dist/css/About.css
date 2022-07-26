@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: blue;
+    color: white;
+}
+.herder{
+    text-align: center;
+    word-spacing: 5px;
+    margin-left: 10px;
+}
+.About-us{
+    text-align: center;
+}
+.us{
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.how-work{
+    margin-top: 35px;
+}
+.customer-service{
+    margin-top: 30px;
+}
+ul li{
+    margin-top: 10px;
+    font-size: 20px;
+}
+a{
+    color: green;
+}
+.pick-topic{
+    margin-top: 30px;
+}
+li{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.topic{
+    margin-top: 35px;
+    font-size: 20px;
+}
+.spotify-hq{
+    margin-top: 30px;
+}
+.world-trade{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.around-world{
+    margin-top: 30px;
+}
+.Spotify-Belgium{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.spotify-gmbh{
+    margin-top: 30px;
+}
+.germany{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.spotify-canada{
+    margin-top: 30px;
+}
+.canada{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.spotify-denmark{
+    margin-top: 30px;
+}
+.denmark{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.spotify-spain{
+    margin-top: 30px;
+}
+.spain{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.spotify-france{
+    margin-top: 30px;
+}
+.france{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.spotify-india{
+    margin-top: 30px;
+}
+.india{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.spotify-italy{
+    margin-top: 30px;
+}
+.italy{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.spotify-netherlands{
+    margin-top: 30px;
+}
+.netherlands{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.spotify-ab{
+    margin-top: 30px;
+}
+.sweden{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.spotify-ltd{
+    margin-top: 30px;
+}
+.london{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.spotify-mexico{
+    margin-top: 30px;
+}
+.mexico{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.spotify-israel{
+    margin-top: 30px;
+}
+.israel{
+    margin-top: 10px;
+    font-size: 20px;
+}
+/* .work{
+    margin-top: 15px;
+    font-size: 20px;
+}
+.about-spotify{
+    margin-top: 30px;
+}
+.about{
+    margin-top: 25px;
+    font-size: 20px;
+}
+.music-free{
+    margin-top: 35px;
+}
+.free{
+    font-size: 20px;
+    margin-top: 27px;
+}
+.spotify-cost{
+    margin-top: 35px;
+}
+.cost{
+    font-size: 20px;
+    margin-top: 27px;
+} */

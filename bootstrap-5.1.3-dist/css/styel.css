@@ -1,0 +1,223 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: black;
+    color: blue;
+    height: 5vh;
+    padding: 10px 0;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+.right{
+    display: flex;
+    margin-left: 20px;
+    justify-content: space-between;
+}
+.up{
+    background-image: url(../img/spotify1.png);
+    color: white;
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    display:flexbox;
+    margin: auto;
+    position: relative;
+}
+.down{
+    background:black;
+    color: black;
+    height: 100vh;
+    width: 100%;
+}
+img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+.name{
+    margin-left: -60%;
+    margin-top: 15px;
+}
+.like{
+    cursor: pointer;
+}
+ul{
+    cursor: pointer;
+    height: 30px;
+    display: inline-flex;
+
+}
+
+ul li{
+    margin: 20px;
+    list-style: none;
+    
+}
+.left ul li a{
+    color: blue;
+}
+.fisrt{
+    font-size: 80px;
+    line-height: 70px;
+}
+.fisrt{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.get{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 50%;
+}
+.free{
+    background-color: white;
+    width: 15%;
+    height: 5vh;
+    top: 50%;
+    position: absolute;
+    left: 43%;
+    cursor: pointer;
+    border-radius: 50px;
+    border: none;
+}
+.a{
+    text-decoration: none;
+
+    color: green;
+    font-size: 10px;
+}
+.down{
+    text-align: left;
+    padding: 15px 0;
+    display: flex;
+}
+.love{
+    margin-left: 200%;
+}
+.Spotify{
+    margin-left: 260%;
+    margin-top: -50%;
+    font-size: 30px;
+    color: blue;
+}
+.write{
+    margin-top: 10%;
+    margin-left: 10%;
+    font-size: 40px;
+}
+.company{
+    color: blue;
+    font-size: 30px;
+}
+a{
+ 
+    font-size: 20px;
+    text-decoration: none;
+    color: red;
+}
+.look{
+    margin-top: 10%;
+    font-size: 40px;
+    margin-left: 10%;
+}
+.communities{
+    color: blue;
+    font-size: 30px;
+}
+.three{
+    margin-top: 10%;
+    font-size: 40px;
+    margin-left: 10%;
+}
+.link{
+    color: blue;
+    font-size: 30px;
+}
+.face{
+    margin-top: -20%;
+    margin-left: 20%;
+}
+.inster{
+    width: 40px;
+    height: 40px;
+}
+.gmail{
+    width: 40px;
+    height: 40px;
+}
+.book{
+    width: 40px;
+    height: 40px;
+}
+.angel{
+    width: 40px;
+    height: 40px;
+}
+.legal{
+    margin-left: 20%;
+    margin-top: 5%;
+}
+.center{
+    margin-left: 7%;
+    margin-top: -2%;
+}
+.policy{
+    margin-left: 23%;
+    margin-top: -2%;
+}
+.cookies{
+    margin-left: 38%;
+    margin-top: -2%;
+}
+.ads{
+    margin-left: 48%;
+    margin-top: -2%;
+}
+.ca{
+    margin-top: 3%;
+}
+.usa{
+    margin-left: 85%;
+    margin-top: -7%;
+}
+.world{
+    width: 20px;
+    height: 20px;
+    margin-left: 75;
+}
+.live{
+    width: 20px;
+    height: 20px;
+    margin-top: 5%;
+}
+@media screen and (max-width : 470px) {
+    .header{
+        background-color: black;
+        color: blue;
+        height: 5vh;
+        padding: 10px 0;
+        display: flex;
+        text-align: center;
+        justify-content: space-between;
+    }
+    .right{
+        display: flex;
+        margin-left: 20px;
+        justify-content: space-between;
+    }
+    .like{
+        width: 35px;
+        height: 35px;
+        border-radius: 50px;
+    }
+    .name{
+        
+    }
+} 
